@@ -8,8 +8,6 @@ minifiOutput = true
 
 [params]
 disableInlineCopyToClipBoard = true
-disableMathJax = true
-disableOpenapi = true
 showVisitedLinks = true
 collapsibleMenu = true
 

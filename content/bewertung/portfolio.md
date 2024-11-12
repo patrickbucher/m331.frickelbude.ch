@@ -9,7 +9,7 @@ Einzelne Arbeitsaufträge sind mit dem Portfolio-Icon :briefcase: gekennzeichnet
 Es gelten folgende Gütekriterien:
 
 1. Form
-    1. **Kohärenz Portfolioeinträge (roter Faden)**: Ist das Portfolio sauber, ordentlich und übersichtlich geführt? Werden Quellen korrekt angegeben (inkl. Quellen-verzeichnis) und ein Inhaltsverzeichnis geführt? 
+    1. **Kohärenz Portfolioeinträge (roter Faden)**: Ist das Portfolio sauber, ordentlich und übersichtlich geführt? Werden Quellen korrekt angegeben (inkl. Quellenverzeichnis) und ein Inhaltsverzeichnis geführt? 
     2. **Äussere Form Portfolio**: Ist das Portfolio sauber, ordentlich und übersichtlich geführt? Werden Quellen korrekt angegeben (inkl. Quellen-verzeichnis) und ein Inhaltsverzeichnis geführt?
     3. **Einbindung von Multimedia**: Werden Fotos, Videos oder ähnliche Elemente zum Praxistransfer eingesetzt?
     4. **Vollständigkeit**: Wurde der Portfolioeintrag fristgerecht abgegeben?

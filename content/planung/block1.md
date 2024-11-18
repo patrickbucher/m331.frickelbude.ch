@@ -1,5 +1,6 @@
 +++
 title = "Block 1: Einstieg"
+weight = 1
 +++
 
 # Woche 1

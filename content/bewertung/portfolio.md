@@ -6,6 +6,8 @@ Im Unterricht Modul 331 bearbeiten Sie das Thema «Aufträge methodenunterstütz
 
 Einzelne Arbeitsaufträge sind mit dem Portfolio-Icon :briefcase: gekennzeichnet. Diese Aufträge enthalten jeweils einen Transferteil, welchen Sie in Ihrem persönlichen Portfolio dokumentieren. Sämtliche Portfolioeinträge sind im gleichen Dokument zu führen. Dieses Dokument zeigen Sie auf Aufforderung der Lehrperson. Die Portfolioeinträge werden von Ihrer Lehrperson bewertet. Aus den Teilbewertungen setzt sich die Portfolionote zusammen.
 
+## Gütekriterien
+
 Es gelten folgende Gütekriterien:
 
 1. Form
@@ -18,3 +20,20 @@ Es gelten folgende Gütekriterien:
     2. **Zielorientiertheit**: Stehen sämtliche Inhalte in Bezug zum Unterricht und zeigen die Lernfortschritte auf? 
     3. **Praxisbezug**: Werden die im Unterricht behandelten Theorieteile in die eigene Praxis transferiert?
     4. **Reflexion**: Werden Inhalte kritisch reflektiert?
+
+## Formelle Kriterien
+
+Das Portfolio soll folgende formelle Kriterien erfüllen:
+
+1. Das Portfolio wird als abgeschlossenes Dokument im PDF-Format eingereicht.
+2. Das Seitenformat ist A4.
+3. Das Portfolio verfügt über eine Titelseite mit den folgenden Angaben:
+    - Titel "Portfolio"
+    - Autor
+    - Modulnummer und -bezeichnung
+    - Abgabedatum
+4. Das Portfolio verfügbt über ein aktuelles Inhaltsverzeichnis, das mindestens zwei Stufen mit Seitenzahl umfasst.
+5. Die Titel sind auf mindestens zwei Ebenen nummeriert, z.B.:
+    - oberste Stufe: Woche (Einstieg, Informieren, Planen usw.)
+    - zweitoberste Stufe: Auftrag
+6. Sie Seitenzahl ist in der Kopf- oder Fusszeile ersichtlich.

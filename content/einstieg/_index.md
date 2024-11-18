@@ -102,4 +102,4 @@ Der Lern- und Arbeitsauftrag ist erfüllt, wenn…
 
 - Sie sich insbesondere zu den Fragen 2 und 3 ausgetauscht haben.
 - Sie eine Vorstellung davon haben, wie und wann Sie an Ihrem Portfolio arbeiten möchten und wissen, was von Ihnen erwartet wird.
-- Die Resultate von Aufgabe 1–5 in Ihrem Portfolio festgehalten sind.
+- Die Resultate von Aufgabe 2–5 in Ihrem Portfolio festgehalten sind.

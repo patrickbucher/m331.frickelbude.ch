@@ -1,6 +1,6 @@
 baseURL = 'https://m331.frickelbude.ch'
 languageCode = 'de-ch'
-title = 'Modul 346'
+title = 'Modul 331'
 enableEmoji = true
 
 [minify]

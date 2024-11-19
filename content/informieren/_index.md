@@ -10,7 +10,7 @@ In einer Organisation existieren vier Elemente:
 1. **Aufgabe**: Aufgaben sind Aufforderungen, etwas Bestimmtes zu tun. Diese Aufforderungen beziehen sich nicht nur auf einen Einzelfall, sondern sind dauerhaft wirksam. Aufgaben wiederholen sich immer wieder, während man bei einmaligen Tätigkeiten von einem Auftrag spricht.
 2. **Aufgabenträger**: Aufgaben sind Personen oder Organisationseinheiten zugeordnet, also Stellen, die diese Aufgabe ausführen. Diese Personen werden als Aufgabenträger bezeichnet. Viele Faktoren wirken auf das Verhalten von Personen ein und bewirken Leistungsbereitschaft oder –verweigerung. Motivierte Mit-arbeitende führen ihre zugeteilten Aufgaben besser aus als demotivierte.
 3. **Sachmittel**: Um Aufgaben zu erfüllen sind häufig Sachmittel notwendig. Diese entlasten den Aufgabenträger bei der Ausführung. Beispielsweise können Computer, Software etc. die Person unterstützen und ganze Aufgabenerfüllungsprozesse selbständig erledigen. Zudem zählen auch Räume mit ihren Einrich-tungsgegenständen zu Sachmitteln (Schreibtische, Ordnerablagen usw.).
-4. **Informationen**: Damit ein Aufgabenträger eine ihm zugewiesene Aufgabe mit den entsprechenden Sachmitteln aus-führen kann, muss er wissen, was er genau zu tun hat.
+4. **Informationen**: Damit ein Aufgabenträger eine ihm zugewiesene Aufgabe mit den entsprechenden Sachmitteln ausführen kann, muss er wissen, was er genau zu tun hat.
 
 ## Theorie: Kongruenzprinzip
 
@@ -53,9 +53,9 @@ Formulieren Sie einen Auftrag zu einem Konzept von Schnupperlehren in Ihrem Lehr
 
 Der Lern- und Arbeitsauftrag ist erfüllt, wenn:
 
-- Sie konkrete Aufgaben und Aufträge aus Ihrem Betrieb / Basislehrjahr beschrieben haben.
-- Sie Ihre Gedanken darlegen, warum Sie mehr Aufgaben oder Aufträge im Lehrbetrieb / Basislehrjahr ausführen.
-- Die Resultate von Teil 1 Aufgabe 1 – 3 und Teil 2 in Ihrem Portfolio festgehalten sind.
+- Sie konkrete Aufgaben und Aufträge aus Ihrem Betrieb/Basislehrjahr beschrieben haben.
+- Sie Ihre Gedanken darlegen, warum Sie mehr Aufgaben oder Aufträge im Lehrbetrieb/Basislehrjahr ausführen.
+- Die Resultate von Teil 1 Aufgabe 1-3 und Teil 2 in Ihrem Portfolio festgehalten sind.
 
 ## Theorie: Informationsbeschaffung
 

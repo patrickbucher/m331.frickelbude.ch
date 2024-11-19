@@ -59,7 +59,7 @@ Der Lern- und Arbeitsauftrag ist erfüllt, wenn:
 
 ## Theorie: Informationsbeschaffung
 
-Täglich benötigen wir eine Vielzahl von Informationen. Häufig schauen wir dazu schnell im Internet nach. Ei-ne effiziente und effektive Informationsbeschaffung ist aber keineswegs einfach. Die Menge und Vielfalt an Informationen verlangen ein systematisches Vorgehen bei der Suche.
+Täglich benötigen wir eine Vielzahl von Informationen. Häufig schauen wir dazu schnell im Internet nach. Eine effiziente und effektive Informationsbeschaffung ist aber keineswegs einfach. Die Menge und Vielfalt an Informationen verlangen ein systematisches Vorgehen bei der Suche.
 
 1. Was suche ich?
 2. Wo kann ich die Information finden?
@@ -68,33 +68,33 @@ Täglich benötigen wir eine Vielzahl von Informationen. Häufig schauen wir daz
 |-------------------------|------------------|--------------|
 | Personen (eigener Betrieb, Institution, Stellen) | Spezielle Informationen | E-Mail, Telefon, Gespräch |
 | Internet, Intranet | Neues Wissen, aktuelle Informationen | Suchmaschine, Kataloge |
-| Bücher, Zeitschriften, Unterlagen aller Art | Grundlagenwissen (allge-mein, branchen- und unter-nehmensspezifisch) | Katalog, z.B. in Buchform oder elektronisch |
+| Bücher, Zeitschriften, Unterlagen aller Art | Grundlagenwissen (allgemein, branchen- und unternehmensspezifisch) | Katalog, z.B. in Buchform oder elektronisch |
 
 Bei Gesprächen mit Personen ist es wichtig sich Notizen zu machen.
 
 ### Fragen
 
-Fragen zu stellen wird fälschlicherweise oft mit Unwissenheit gleichgesetzt. Spezielle Fragetechniken kön-nen ein Gespräch lenken und leiten, den Verlauf beeinflussen oder verhindern, dass sich die Konversation ergebnislos im Kreis dreht. Aus gutem Grund heisst es: Wer fragt, der führt. Allerdings bleibt diese Chance oft ungenutzt. 
+Fragen zu stellen wird fälschlicherweise oft mit Unwissenheit gleichgesetzt. Spezielle Fragetechniken können ein Gespräch lenken und leiten, den Verlauf beeinflussen oder verhindern, dass sich die Konversation ergebnislos im Kreis dreht. Aus gutem Grund heisst es: Wer fragt, der führt. Allerdings bleibt diese Chance oft ungenutzt. 
 
 Es gibt verschiedene Fragetechniken, die verwendet werden können, um Informationen zu erhalten oder um ein Gespräch zu führen. Hier sind einige der häufigsten Fragetechniken:
 
-1.	Offene Fragen: Diese Art von Fragen erfordern eine ausführliche Antwort und ermöglichen es dem Befragten, seine Meinung oder Gedanken zu äussern. Beispiele für offene Fragen sind "Was denkst du über...?" oder "Kannst du mir mehr darüber erzählen...?"
-2.	Geschlossene Fragen: Diese Fragen erfordern eine einfache Antwort wie "Ja" oder "Nein" oder eine kurze Antwort. Sie werden häufig verwendet, um bestimmte Informationen zu bestätigen oder abzu-lehnen. Beispiele für geschlossene Fragen sind "Hast du schon mal...?" oder "Bist du...?"
-3.	Rückfragen: Diese Art von Fragen werden verwendet, um zusätzliche Informationen zu erhalten oder um sicherzustellen, dass man das Gesagte richtig verstanden hat. Beispiele für Rückfragen sind "Kannst du das bitte genauer erklären?" oder "Verstehe ich das richtig, dass...?"
-4.	Suggestivfragen: Diese Fragen können eine Antwort vorschlagen oder beeinflussen. Sie sollten vermieden werden, wenn man objektive Antworten erhalten möchte. Ein Beispiel für eine suggestiv Frage wäre "Du denkst doch sicher auch, dass...?"
-5.	Hypothetische Fragen: Diese Art von Fragen können verwendet werden, um mögliche Szenarien oder Entscheidungen zu erörtern. Sie beginnen oft mit "Was wäre, wenn...?" oder "Was würdest du tun, wenn...?"
-6.	Eingrenzende Fragen: Diese Fragen werden verwendet, um Informationen einzugrenzen oder um bestimmte Aspekte einer Situation zu klären. Beispiele für eingrenzende Fragen sind "Wann genau ist das passiert?" oder "Welche Art von...?"
+1. **Offene Fragen**: Diese Art von Fragen erfordern eine ausführliche Antwort und ermöglichen es dem Befragten, seine Meinung oder Gedanken zu äussern. Beispiele für offene Fragen sind "Was denkst du über…?" oder "Kannst du mir mehr darüber erzählen…?"
+2. **Geschlossene Fragen**: Diese Fragen erfordern eine einfache Antwort wie "Ja" oder "Nein" oder eine kurze Antwort. Sie werden häufig verwendet, um bestimmte Informationen zu bestätigen oder abzu-lehnen. Beispiele für geschlossene Fragen sind "Hast du schon mal…?" oder "Bist du…?"
+3. **Rückfragen**: Diese Art von Fragen werden verwendet, um zusätzliche Informationen zu erhalten oder um sicherzustellen, dass man das Gesagte richtig verstanden hat. Beispiele für Rückfragen sind "Kannst du das bitte genauer erklären?" oder "Verstehe ich das richtig, dass…?"
+4. **Suggestivfragen**: Diese Fragen können eine Antwort vorschlagen oder beeinflussen. Sie sollten vermieden werden, wenn man objektive Antworten erhalten möchte. Ein Beispiel für eine suggestiv Frage wäre "Du denkst doch sicher auch, dass…?"
+5. **Hypothetische Fragen**: Diese Art von Fragen können verwendet werden, um mögliche Szenarien oder Entscheidungen zu erörtern. Sie beginnen oft mit "Was wäre, wenn…?" oder "Was würdest du tun, wenn…?"
+6. **Eingrenzende Fragen**: Diese Fragen werden verwendet, um Informationen einzugrenzen oder um bestimmte Aspekte einer Situation zu klären. Beispiele für eingrenzende Fragen sind "Wann genau ist das passiert?" oder "Welche Art von…?"
 
 Diese Fragetechniken können je nach Situation und Ziel des Gesprächs eingesetzt werden. Es ist jedoch wichtig, darauf zu achten, welche Fragen man stellt, um sicherzustellen, dass man objektive Antworten erhält und das Gespräch in die gewünschte Richtung lenkt.
 
 ### Suchstrategien
 
-Suchstrategien beziehen sich auf die Techniken, die verwendet werden, um relevante Informationen in einer grossen Menge von Daten oder Informationen zu finden. Es gibt verschiedene Suchstrategien, die man ver-wenden kann, um die Suche zu vereinfachen und um schneller zu relevanten Informationen zu gelangen. Hier sind einige der wichtigsten Suchstrategien:
+Suchstrategien beziehen sich auf die Techniken, die verwendet werden, um relevante Informationen in einer grossen Menge von Daten oder Informationen zu finden. Es gibt verschiedene Suchstrategien, die man verwenden kann, um die Suche zu vereinfachen und um schneller zu relevanten Informationen zu gelangen. Hier sind einige der wichtigsten Suchstrategien:
 
-1. **Schlagwort-Suche**: Diese Strategie bezieht sich auf die Verwendung von Schlagwörtern oder Schlüs-selbegriffen, um relevante Informationen in einer Datenbank oder Suchmaschine zu finden. Man kann diese Begriffe in das Suchfeld eingeben und erhält eine Liste von Ergebnissen, die diese Begrif-fe enthalten.
-2. **Boolean-Suche**: Diese Strategie bezieht sich auf die Verwendung von logischen Operatoren wie "AND", "OR" und "NOT", um die Suche weiter einzugrenzen oder zu erweitern. Zum Beispiel könnte man nach "Hund" AND "Katze" suchen, um Ergebnisse zu finden, die beide Begriffe enthalten.
-3. **Trunkierung**: Diese Strategie bezieht sich auf die Verwendung von Platzhaltern, um eine Suche zu erweitern. Zum Beispiel könnte man nach "Schreib*" suchen, um Ergebnisse zu finden, die Wörter wie "Schreiben", "Schreibweise" oder "Schreibgerät" enthalten.
-4. **Filtern**: Diese Strategie bezieht sich auf die Verwendung von Filtern, um die Ergebnisse auf bestimm-te Kriterien einzugrenzen. Zum Beispiel könnte man die Ergebnisse nach Datum, Autor oder Quelle filtern.
+1. **Schlagwort-Suche**: Diese Strategie bezieht sich auf die Verwendung von Schlagwörtern oder Schlüsselbegriffen, um relevante Informationen in einer Datenbank oder Suchmaschine zu finden. Man kann diese Begriffe in das Suchfeld eingeben und erhält eine Liste von Ergebnissen, die diese Begriffe enthalten.
+2. **Boolean-Suche**: Diese Strategie bezieht sich auf die Verwendung von logischen Operatoren wie "AND", "OR" und "NOT", um die Suche weiter einzugrenzen oder zu erweitern. Zum Beispiel könnte man nach `Hund AND Katze` suchen, um Ergebnisse zu finden, die beide Begriffe enthalten.
+3. **Trunkierung**: Diese Strategie bezieht sich auf die Verwendung von Platzhaltern, um eine Suche zu erweitern. Zum Beispiel könnte man nach `Schreib*` suchen, um Ergebnisse zu finden, die Wörter wie "Schreiben", "Schreibweise" oder "Schreibgerät" enthalten.
+4. **Filtern**: Diese Strategie bezieht sich auf die Verwendung von Filtern, um die Ergebnisse auf bestimmte Kriterien einzugrenzen. Zum Beispiel könnte man die Ergebnisse nach Datum, Autor oder Quelle filtern.
 
 Diese Suchstrategien können je nach Art der Suche und der zu durchsuchenden Daten angewendet werden, um relevante Informationen schneller zu finden.
 

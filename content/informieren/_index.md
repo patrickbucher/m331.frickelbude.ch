@@ -159,7 +159,7 @@ Um Dokumente zu versionieren gibt es unterschiedliche Strategien.
 
 ### Gütekriterien
 
-Der Lern- und Arbeitsauftrag ist erfüllt, wennÖ
+Der Lern- und Arbeitsauftrag ist erfüllt, wenn:
 
 - Sie im nachfolgenden Klassengespräch die unterschiedlichen Möglichkeiten zur Versionierung kennen und begründen können, für welche Sie sich entschieden haben.
 

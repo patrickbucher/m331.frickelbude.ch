@@ -3,7 +3,7 @@ title = "Block 3: Planen"
 weight = 3
 +++
 
-Montag, 27.11.2023
+Dienstag, 26.11.2024
 
 ## Programm
 

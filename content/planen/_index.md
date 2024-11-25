@@ -3,9 +3,9 @@ title = "Planen"
 weight = 5
 +++
 
-## Theorie: Lerntechniken {#thoerie-lerntechniken}
+## Theorie: Lerntechniken {#theorie-lerntechniken}
 
-Um sich neues Wissen anzueignen, sei es im Beruf oder in der Schule, helfen einem Lerntechniken Inhalte neu einzuordnen und zu verarbeiten. Je nach Lerntyp und bereits gemachter Erfahrungen können unter-schiedliche Lerntechniken für einen selbst effektiv sein. Einige dieser Lerntechniken wären:
+Um sich neues Wissen anzueignen, sei es im Beruf oder in der Schule, helfen einem Lerntechniken Inhalte neu einzuordnen und zu verarbeiten. Je nach Lerntyp und bereits gemachter Erfahrungen können unterschiedliche Lerntechniken für einen selbst effektiv sein. Einige dieser Lerntechniken wären:
 
 1. **Aktives Zuhören**: Beim aktiven Zuhören geht es darum, sich auf das zu konzentrieren, was der Lehrer oder Dozent sagt und dabei wichtige Informationen herauszufiltern. Versuche, wichtige Begriffe und Zusammenhänge zu notieren.
 2. **Lerngruppen bilden**: Lerngruppen können sehr effektiv sein, um schwierige Themen zu diskutieren und gemeinsam zu bearbeiten. Dabei können verschiedene Perspektiven eingebracht werden, was das Verständnis verbessert.
@@ -13,7 +13,7 @@ Um sich neues Wissen anzueignen, sei es im Beruf oder in der Schule, helfen eine
 4. **Wiederholung**: Wiederholung ist einer der wichtigsten Faktoren beim Lernen. Versuche, das Gelernte in regelmässigen Abständen zu wiederholen, um es langfristig im Gedächtnis zu behalten.
 5. **Karteikarten erstellen**: Karteikarten sind eine effektive Methode, um Fakten und Zusammenhänge zu lernen. Du kannst sie mit Fragen und Antworten füllen und sie regelmässig durchgehen.
 6. **Visualisierung**: Visualisierung hilft dabei, abstrakte Konzepte und Zusammenhänge besser zu verstehen. Versuche, dir schwierige Themen bildlich vorzustellen, um sie besser zu behalten.
-7. **Selbsttest**: Selbsttests helfen dabei, das Gelernte zu überprüfen und zu vertiefen. Versuche, dich regelmässig selbst zu testen, um zu sehen, wie gut du das Gelernte beherrscht.
+7. **Selbsttest**: Selbsttests helfen dabei, das Gelernte zu überprüfen und zu vertiefen. Versuche, dich regelmässig selbst zu testen, um zu sehen, wie gut du das Gelernte beherrschst.
 8. **Vorstellung von Zusammenhängen**: Versuche, das Gelernte in grössere Zusammenhänge zu stellen, um es besser zu verstehen. Frage dich, wie es sich in dein Gesamtwissen einordnet und wie es mit anderen Themen verknüpft ist.
 
 Es gibt noch weitere Lerntechniken und die oben genannte Liste ist nicht vollständig. Trotzdem gibt sie einen guten Überblick
@@ -38,7 +38,7 @@ Um verschiedenen Aufträge für sich selbst zu planen und transparent darzustell
 
 ### Teilaufträge
 
-Die Unterteilung eines grossen Auftrags in Teilaufträge kann sehr wichtig sein, um den Überblick zu behalten und sicherzustellen, dass alle Ziele erreicht werden. Durch die Aufteilung in kleinere Einheiten wird das der Auftrag weniger überwältigend und lässt sich besser bewältigen. Die Teilaufträge helfen auch dabei, die Arbeit effektiver zu planen, da sie es ermöglichen, spezifische Ziele und Meilensteine festzulegen und den Fortschritt genau zu überwachen. Ausserdem erleichtern Teilaufträge die Zusammenarbeit mit anderen Teammitgliedern oder Kunden, da jeder seine Aufgaben und Verantwortlichkeiten kennt und der Fortschritt des Projekts transparenter wird.
+Die Unterteilung eines grossen Auftrags in Teilaufträge kann sehr wichtig sein, um den Überblick zu behalten und sicherzustellen, dass alle Ziele erreicht werden. Durch die Aufteilung in kleinere Einheiten wird der Auftrag weniger überwältigend und lässt sich besser bewältigen. Die Teilaufträge helfen auch dabei, die Arbeit effektiver zu planen, da sie es ermöglichen, spezifische Ziele und Meilensteine festzulegen und den Fortschritt genau zu überwachen. Ausserdem erleichtern Teilaufträge die Zusammenarbeit mit anderen Teammitgliedern oder Kunden, da jeder seine Aufgaben und Verantwortlichkeiten kennt und der Fortschritt des Projekts transparenter wird.
 
 Um von einem grossen Auftrag Teilaufträge zu machen, können folgende Schritte durchgeführt werden:
 
@@ -64,7 +64,7 @@ Planungstabellen können auf Papier oder elektronisch erstellt werden, je nach d
 
 Ein Taskboard ist ein Werkzeug zur Organisation von Aufgaben oder Tasks in einem agilen Projektmanagement-Kontext. Ein Taskboard ist normalerweise eine physische oder digitale Tafel, die in einem Arbeitsbereich aufgestellt wird und in der Regel in Spalten unterteilt ist.
 
-Typischerweise gibt es drei Hauptspalten auf einem Taskboard: "To-Do", "In Arbeit" und "Erledigt". Aufgaben werden in Form von Karten oder PostIts auf das Board gepinnt und von Spalte zu Spalte verschoben, je nachdem, in welchem Status sich die Aufgabe gerade befindet.
+Typischerweise gibt es drei Hauptspalten auf einem Taskboard: "To-Do", "In Arbeit" und "Erledigt". Aufgaben werden in Form von Karten oder Post-Its auf das Board gepinnt und von Spalte zu Spalte verschoben, je nachdem, in welchem Status sich die Aufgabe gerade befindet.
 
 Das Taskboard bietet eine visuelle Darstellung des Fortschritts und des Status von Aufgaben innerhalb eines Auftrags und ermöglicht es dem Team, schnell und einfach zu sehen, welche Aufgaben noch erledigt werden müssen und welche bereits erledigt sind. Es kann auch dazu beitragen, Engpässe und Abhängigkeiten zwischen verschiedenen Aufgaben zu identifizieren und zu lösen, sowie die Zusammenarbeit und Kommunikation innerhalb des Teams zu fördern.
 
@@ -74,9 +74,9 @@ Taskboards sind ein wichtiger Bestandteil agiler Projektmanagementmethoden wie z
 
 ### Meilensteine
 
-Meilensteine sind wichtige Eckpunkte in einem grösseren Auftrag, die dazu dienen, den Fortschritt zu messen und sicherzustellen, dass das Projekt in der richtigen Richtung voranschreitet. Meilensteine sind in der Regel mit bestimmten Terminen oder Ereignissen verbunden und können in Form von Markierungen in einer Planungstabelle dargestellt werden. Meilensteine helfen dabei, das Projektmanagement effektiver zu gestalten, indem sie dem Team einen klaren Fokus auf die wichtigsten Schritte des Auftrags geben und es ermöglichen, den Fortschritt zu überwachen und Probleme frühzeitig zu identifizieren. Durch die regelmässige Überprüfung von Meilensteinen können auch Engpässe oder Abhängigkeiten zwischen Aufgaben identifiziert werden, was dazu beiträgt, dass der Auftrag auf Kurs bleibt und erfolgreich abgeschlossen wird.
+Meilensteine sind wichtige Eckpunkte in einem grösseren Auftrag, die dazu dienen, den Fortschritt zu messen und sicherzustellen, dass das Projekt in der richtigen Richtung voranschreitet. Meilensteine sind in der Regel mit bestimmten Terminen oder Ereignissen verbunden und können in Form von Markierungen in einer Planungstabelle dargestellt werden. Meilensteine helfen dabei, das Projektmanagement effektiver zu gestalten, indem sie dem Team einen klaren Fokus auf die wichtigsten Schritte des Auftrags geben und es ermöglichen, den Fortschritt zu überwachen und Probleme frühzeitig zu identifizieren.
 
-Meilensteine sind in der Planungstabelle als grüne Rhomben eingezeichnet.
+Durch die regelmässige Überprüfung von Meilensteinen können auch Engpässe oder Abhängigkeiten zwischen Aufgaben identifiziert werden, was dazu beiträgt, dass der Auftrag auf Kurs bleibt und erfolgreich abgeschlossen wird. Meilensteine sind in der Planungstabelle als grüne Rhomben eingezeichnet.
 
 ## :briefcase: Auftrag 2: Planungstabelle {#auftrag-planungstabelle}
 
@@ -100,11 +100,12 @@ Der Lern- und Arbeitsauftrag ist erfüllt, wenn:
 
 - [Gantt-Charts in Excel](https://create.microsoft.com/en-us/templates/gantt-charts)
 - [Gantt-Charts mit OnlineGantt](https://www.onlinegantt.com/#/gantt)
-- [Gantt-Charts mit TeamGantt](https://www.teamgantt.com/)
+- [Gantt-Charts mit TeamGantt](https://www.teamgantt.com/) (Registrierung nötig)
+- [Gantt-Charts mit Mermaid](https://mermaid.js.org/syntax/gantt.html) (für Fortgeschrittene)
 
 ## :briefcase: Auftrag 3: Taskboard {#auftrag-taskboard}
 
-Im vorhergehenden Auftrag haben Sie Ihren nächsten Geburtstag als Planungstabelle erstellt.
+Im vorhergehenden Auftrag haben Sie Ihren nächsten runden Geburtstag als Planungstabelle erstellt.
 
 ### Aufgabenstellung
 
@@ -117,7 +118,7 @@ Versuchen Sie ein Taskboard für Ihren nächsten runden Geburtstag mit Hilfe der
 
 Der Lern- und Arbeitsauftrag ist erfüllt, wenn:
 
-- Sie für ein für Ihren nächsten runden Geburtstag ein übersichtliches und verständliches Taskboard erstellt haben.
+- Sie für Ihren nächsten runden Geburtstag ein übersichtliches und verständliches Taskboard erstellt haben.
 - Sie das Taskboard in Ihrem Portfolio abgebildet haben.
 
 ## :trophy: Auftrag 4: Präsentation {#auftrag-praesentation}

@@ -15,17 +15,17 @@ In der dritten Woche geht es um das _P_ wie "Planen" in _IPERKA_.
 
 - [10 min.] Videobeispiel zum Thema "Planen"
 - [5 min.] Administratives
-- [5 min.] Theorieblock [Lerntechniken](/planen/#theorie-lerntechniken)
-- [25 min.] Auftrag: Lerntechniken
+- [5 min.] [Theorieblock Lerntechniken](/planen/#theorie-lerntechniken)
+- [25 min.] [Auftrag Lerntechniken](/planen/#auftrag-lerntechniken)
 
 ### Lektion 2
 
-- [10 min.] Theorieblock 2: 2.3 (Seiten 6-7) lesen
-- [35 min.] Aufträge: Planungstabellen & Taskboard
+- [10 min.] [Theorieblock Planung von Aufträgen](/planen/#theorie-planung-von-auftraegen)
+- [35 min.] Aufträge: [Planungstabelle](/planen/#auftrag-planungstabelle) & [Taskboard](/planen/#auftrag-taskboard)
 
 ### Lektion 3
 
-- [40 min.] Auftrag: Präsentation
+- [40 min.] Auftrag: [Präsentation](/planen/#auftrag-praesentation)
 - [5 min.] Videobeispiel zum Thema "Planen" (Ergebnis)
 
 ### Lektion 4

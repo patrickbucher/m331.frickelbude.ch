@@ -127,7 +127,7 @@ In den vorhergehenden beiden Aufträgen haben Sie Ihren nächsten Geburtstag als
 
 ### Aufgabenstellung
 
-Präsentieren Sie Ihre Planungen zum nächsten Geburtstag im nächsten Unterrichtsblock vor der Klasse. Form und Mittel stehen Ihnen frei; die Vortragssprache ist Hochdeutsch. Inhaltlich sollen die beiden Planungen (Planungstabelle und Taskboard) im Zentrum stehen.
+Präsentieren Sie Ihre Planungen zum nächsten Geburtstag im nächsten Unterrichtsblock vor der Klasse. Form und Mittel stehen Ihnen frei. Inhaltlich sollen die beiden Planungen (Planungstabelle und Taskboard) im Zentrum stehen.
 
 ### Gütekriterien
 

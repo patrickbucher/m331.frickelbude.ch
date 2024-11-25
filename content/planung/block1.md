@@ -3,8 +3,6 @@ title = "Block 1: Einstieg"
 weight = 1
 +++
 
-# Woche 1
-
 Dienstag, 12.11.2024
 
 ## Programm

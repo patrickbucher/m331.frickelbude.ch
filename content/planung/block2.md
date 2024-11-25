@@ -3,8 +3,6 @@ title = "Block 2: Informieren"
 weight = 2
 +++
 
-# Woche 2
-
 Dienstag, 19.11.2024
 
 ## Programm

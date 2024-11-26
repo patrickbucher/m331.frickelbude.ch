@@ -72,6 +72,14 @@ Das Taskboard bietet eine visuelle Darstellung des Fortschritts und des Status v
 
 Taskboards sind ein wichtiger Bestandteil agiler Projektmanagementmethoden wie z.B. Kanban oder Scrum, die darauf abzielen, Teams zu helfen, schnell und effizient auf sich ändernde Anforderungen zu reagieren und hochwertige Ergebnisse zu liefern. Diese Themen werden wie zu Beginn des Kapitels erwähnt in anderen Modulen genauer besprochen.
 
+#### Taskboard-Werkzeuge
+
+- [Trello](https://trello.com/)
+- [Kanban Tool](https://kanbantool.com/free-kanban-board)
+- [KanbanFlow](https://kanbanflow.com/)
+- [Microsoft Planner](https://planner.cloud.microsoft/?ocdiRedir=1)
+
+
 ### Meilensteine
 
 Meilensteine sind wichtige Eckpunkte in einem grösseren Auftrag, die dazu dienen, den Fortschritt zu messen und sicherzustellen, dass das Projekt in der richtigen Richtung voranschreitet. Meilensteine sind in der Regel mit bestimmten Terminen oder Ereignissen verbunden und können in Form von Markierungen in einer Planungstabelle dargestellt werden. Meilensteine helfen dabei, das Projektmanagement effektiver zu gestalten, indem sie dem Team einen klaren Fokus auf die wichtigsten Schritte des Auftrags geben und es ermöglichen, den Fortschritt zu überwachen und Probleme frühzeitig zu identifizieren.

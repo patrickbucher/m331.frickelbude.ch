@@ -137,6 +137,8 @@ Der Lern- und Arbeitsauftrag ist erfüllt, wenn:
 
 #### Benotung
 
+Die Präsentation soll zwischen 10 und 15 Minuten dauern.
+
 Die Note wird anhand des Gesamteindrucks (Anzahl Sterne) vergeben:
 
 | Anzahl Sterne | Note |

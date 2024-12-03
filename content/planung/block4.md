@@ -36,7 +36,7 @@ In der vierten Woche geht es um das _E_ wie "Entscheiden" in _IPERKA_.
 - [10 min.] Präsentation 6
 - [5 min.] Rückmeldung
 - [15 min.] Theorie: Entscheidungen transparent treffen
-- [15 min.] Auftrag: Nutzertanalyse erstellen
+- [15 min.] Auftrag: Nutzwertanalyse erstellen
 
 ### Lektion 4
 

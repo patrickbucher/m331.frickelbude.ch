@@ -37,24 +37,24 @@ Inhaltliche Kriterien:
 
 ### Gütekriterien
 
-| Bewertungskriterium | Max. Punkte |
-|---------------------|------------:|
-| _Formal_          |          _12_ |
-| Umfang Video und Drehbuch	| 2 |
-| Sprache in Video | 2 |
-| Bild- und Tonqualität | 1 |
-| Übersichtlichkeit der dargestellten Informationen | 2 |
-| Wissensquellen werden korrekt angegeben | 1 |
-| Kreativität, Originalität, Spannungskurve, Effekte | 2 |
-| Schwierigkeitsgrad/Zusatzaufwand/Gesamteindruck | 2 |
-| _Inhalt_          |          _15_ |
-| Im Video wird ersichtlich, wie Sie die einzelnen Schritte von IPERKA durchgegangen sind. | 3 |
-| Die zwei Lösungsvarianten wurden nachvollziehbar und logisch aufgezeigt und bewertet. | 3 |
-| Im Video wird klar, mit welchen Materialien gearbeitet wurde.	| 2 |
-| Das Experiment wird kreativ und erfolgreich umgesetzt. | 3 |
-| Das Ergebnis wurde kritisch reflektiert und Verbesserungsvorschläge formuliert. | 2 |
-| Schwierigkeitsgrad/Zusatzaufwand/Gesamteindruck | 2 |
-| **Total**           |          **27** |
+| Bewertungskriterium                                                                      | Max. Punkte |
+|------------------------------------------------------------------------------------------|------------:|
+| _Formal_                                                                                 |        _12_ |
+| Umfang Video und Drehbuch                                                                |           2 |
+| Sprache in Video                                                                         |           2 |
+| Bild- und Tonqualität                                                                    |           1 |
+| Übersichtlichkeit der dargestellten Informationen                                        |           2 |
+| Wissensquellen werden korrekt angegeben                                                  |           1 |
+| Kreativität, Originalität, Spannungskurve, Effekte                                       |           2 |
+| Schwierigkeitsgrad/Zusatzaufwand/Gesamteindruck                                          |           2 |
+| _Inhalt_                                                                                 |        _15_ |
+| Im Video wird ersichtlich, wie Sie die einzelnen Schritte von IPERKA durchgegangen sind. |           3 |
+| Die zwei Lösungsvarianten wurden nachvollziehbar und logisch aufgezeigt und bewertet.    |           3 |
+| Im Video wird klar, mit welchen Materialien gearbeitet wurde.                            |           2 |
+| Das Experiment wird kreativ und erfolgreich umgesetzt.                                   |           3 |
+| Das Ergebnis wurde kritisch reflektiert und Verbesserungsvorschläge formuliert.          |           2 |
+| Schwierigkeitsgrad/Zusatzaufwand/Gesamteindruck                                          |           2 |
+| **Total**                                                                                |      **27** |
 
 ### FAQ
 

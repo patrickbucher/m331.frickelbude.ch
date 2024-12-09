@@ -5,28 +5,28 @@ weight = 7
 
 ## :airplane: :egg: Auftrag: Das Fliegende Ei
 
-Um die bisherigen Schritte von IPERKA – Informieren, Planen, Entscheiden und Realisieren – zu kombinieren, soll der folgende Auftrag in einer Zweier- oder Dreiergruppe umgesetzt werden. Verwenden Sie dazu die bisher behandelten Schritte von IPERKA und dokumentieren Sie Ihr Ergebnis sinnvoll. Dieser Auftrag wird benotet und zählt zu 20% zu Ihrer Modulnote.
+Um die bisherigen Schritte von IPERKA – Informieren, Planen, Entscheiden und Realisieren – zu kombinieren, soll der folgende Auftrag in einer Zweier- oder Dreiergruppe umgesetzt werden. Verwenden Sie dazu die bisher behandelten Schritte von IPERKA und dokumentieren Sie Ihr Ergebnis sinnvoll. Dieser Auftrag wird benotet und zählt 20% zu Ihrer Modulnote.
 
 ### :clipboard: Aufgabenstellung
 
-Ihr Auftrag ist es, ein Video zu erstellen, in dem Sie aufzeigen, wie Sie ein gekochtes Ei min. 2 Meter auf den Boden herunterfallen lassen, ohne dass es kaputt geht.
+Ihr Auftrag ist es, ein Video zu erstellen, in dem Sie aufzeigen, wie Sie ein gekochtes Ei aus einer Höhe von mindestens 2 Meter auf den Boden herunterfallen lassen, ohne dass es kaputt geht.
 
 - Gehen Sie dabei nach den bisherig gelernten Schritten von IPERKA vor und dokumentieren Sie diese ebenfalls im Video.
 - Erarbeiten Sie zwei mögliche Lösungsvarianten und bewerten Sie diese.
 - Es stehen folgende Materialien zur Verfügung: Ei, Papier, Schnur, Schere.
 - Führen Sie das Experiment durch und bewerten Sie das Ergebnis.
 
-Formale Anforderungen:
+#### Formale Anforderungen
 
-- Länge 3-5 Minuten
-- Hochdeutsch
-- Bild- und Tonqualität
+- Länge: 3-5 Minuten
+- Sprache: Hochdeutsch
+- Gute Bild- und Tonqualität
 - Vollständigkeit
 - Übersichtlichkeit der dargestellten Informationen
 - Wissensquellen werden korrekt angegeben
 - Abgabe via Teams
 
-Inhaltliche Kriterien:
+#### Inhaltliche Kriterien
 
 - Im Video wird ersichtlich, wie Sie die einzelnen Schritte von IPERKA durchgegangen sind, um den Auftrag zu bearbeiten.
 - Im Video zeigen Sie zwei mögliche Lösungsvarianten auf, und beschreiben, wie Sie sich für eine Variante entschieden haben.
@@ -59,9 +59,9 @@ Inhaltliche Kriterien:
 ### :question: FAQ
 
 1. Wird nun in 2er- oder 3er-Gruppen gearbeitet?
-    - In 2er-Gruppen, da wir eine gerade Anzahl von anwesenden Lernenden haben.
+    - Sie können das selber entscheiden. Wichtig ist, dass alle Lernenden in einer Gruppe sind.
 2. Woher kommt das Ei?
-    - Pro Gruppe werden zwei Eier zur Verfügung gestellt.
+    - Aus dem Huhn. Pro Gruppe werden zwei Eier zur Verfügung gestellt.
 3. Wo kann man die Eier kochen?
     - Es werden bereits vorgekochte Eier ausgehändigt.
 4. Was bedeutet «Wissensquellen» und wie sollen sie dokumentiert werden?
@@ -78,7 +78,7 @@ Inhaltliche Kriterien:
 8. Müssen alle IPERKA-Phasen dokumentiert werden?
     - Ja, auch wenn kontrollieren und auswerten noch nicht behandelt worden sind, ist eine kurze Reflexion nötig (siehe Gütekriterien).
 9. Muss das Filmen im Schulzimmer geschehen?
-    - Das Video kann auch bis zur nächsten Woche aufgenommen werden, aber der Unterricht findet im Schulzimmer statt.
+    - Das Video kann auch bis zur Abgabe aufgenommen werden, aber der Unterricht findet im Schulzimmer statt.
 10. Können wir Musik im Video nutzen?
     - Ja, solange das Video nur intern abgegeben wird, sollte es mit Copyright keine Probleme geben.
 11. Kann das Video humorvoll sein?

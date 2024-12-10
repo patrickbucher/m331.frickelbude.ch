@@ -3,7 +3,7 @@ title = "Realisieren"
 weight = 7
 +++
 
-## :airplane: :egg: Auftrag: Das Fliegende Ei
+## :airplane: :egg: Auftrag: Das Fliegende Ei {#das-fliegende-ei}
 
 Um die bisherigen Schritte von IPERKA – Informieren, Planen, Entscheiden und Realisieren – zu kombinieren, soll der folgende Auftrag in einer Zweier- oder Dreiergruppe umgesetzt werden. Verwenden Sie dazu die bisher behandelten Schritte von IPERKA und dokumentieren Sie Ihr Ergebnis sinnvoll. Dieser Auftrag wird benotet und zählt 20% zu Ihrer Modulnote.
 

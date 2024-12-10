@@ -59,31 +59,43 @@ Ihr Auftrag ist es, ein Video zu erstellen, in dem Sie aufzeigen, wie Sie ein ge
 ### :question: FAQ
 
 1. Wird nun in 2er- oder 3er-Gruppen gearbeitet?
-    - Sie können das selber entscheiden. Wichtig ist, dass alle Lernenden in einer Gruppe sind.
+    - Sie können das selber entscheiden. Wichtig ist, dass alle Lernenden in
+      einer Gruppe sind.
 2. Woher kommt das Ei?
     - Aus dem Huhn. Pro Gruppe werden zwei Eier zur Verfügung gestellt.
 3. Wo kann man die Eier kochen?
     - Es werden bereits vorgekochte Eier ausgehändigt.
 4. Was bedeutet «Wissensquellen» und wie sollen sie dokumentiert werden?
     - Wissensquellen sind Hinweise auf Lösungsvarianten.
-    - Versuchen Sie die Links ins Video einzubetten. Falls Sie das nicht schaffen, geben Sie eine Liste mit Quellen ab (Links).
+    - Versuchen Sie die Links ins Video einzubetten. Falls Sie das nicht
+      schaffen, geben Sie eine Liste mit Quellen ab (Links).
 5. Können die Gruppen selbständig eingeteilt werden?
     - Ja
 6. Was passiert, wenn alle Eier kaputt sind?
-    - Das Experiment soll mit den kaputten Eiern weitergeführt werden, die dabei nicht weiter beschädigt werden sollen.
-    - Ist das Ei nicht mehr als solches erkennbar, müssen neue Eier eingekauft werden.
-    - Sämtliche durch kaputte Eier verursachte Verunreinigungen müssen bis zum Ende der Doppellektion durch die verursachenden Lernenden beseitigt werden.
+    - Das Experiment soll mit den kaputten Eiern weitergeführt werden, die
+      dabei nicht weiter beschädigt werden sollen.
+    - Ist das Ei nicht mehr als solches erkennbar, müssen neue Eier eingekauft
+      werden.
+    - Sämtliche durch kaputte Eier verursachte Verunreinigungen müssen bis zum
+      Ende der Doppellektion durch die verursachenden Lernenden beseitigt
+      werden.
 7. Muss die ganze Lösung als Video abgegeben werden?
     - Ja, es sollte alles im Video ersichtlich sein.
 8. Müssen alle IPERKA-Phasen dokumentiert werden?
-    - Ja, auch wenn kontrollieren und auswerten noch nicht behandelt worden sind, ist eine kurze Reflexion nötig (siehe Gütekriterien).
+    - Ja, auch wenn kontrollieren und auswerten noch nicht behandelt worden
+      sind, ist eine kurze Reflexion nötig (siehe Gütekriterien).
 9. Muss das Filmen im Schulzimmer geschehen?
-    - Das Video kann auch bis zur Abgabe aufgenommen werden, aber der Unterricht findet im Schulzimmer statt.
+    - Das Video kann auch bis zur Abgabe aufgenommen werden, aber der
+      Unterricht findet im Schulzimmer statt.
 10. Können wir Musik im Video nutzen?
-    - Ja, solange das Video nur intern abgegeben wird, sollte es mit Copyright keine Probleme geben.
+    - Ja, solange das Video nur intern abgegeben wird, sollte es mit Copyright
+      keine Probleme geben.
 11. Kann das Video humorvoll sein?
     - Ja, gerne, damit es beim Bewerten nicht zu langweilig wird.
 12. Darf Papier auch am Boden ausgelegt werden?
-    - Nein, das Experiment soll von einer anderen Person an einem beliebigen Ort durchgeführt werden können.
+    - Nein, das Experiment soll von einer anderen Person an einem beliebigen
+      Ort durchgeführt werden können.
 13. Dürfen Outtakes angehängt werden?
     - Ja, maximal eine zusätzliche Minute am Schluss.
+14. Dürfen Klebstreifen oder Leim verwendet werden?
+    - Nein.

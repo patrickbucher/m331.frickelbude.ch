@@ -8,3 +8,4 @@ weight = 1
 - [Block 3](/planung/block3): Planen
 - [Block 4](/planung/block4): Entscheiden
 - [Block 5](/planung/block5): Realisieren
+- [Block 6](/planung/block6): Kontrollieren

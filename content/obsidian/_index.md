@@ -5,7 +5,7 @@ weight = 10
 
 Wir haben uns bereits im Block [Informieren](/informieren/) mit dem [Erstellen von Notizen](/informieren/#briefcase-auftrag-4-notizen-machen) befasst. Im Rahmen des Berufsschulunterrichts sind Sie dabei höchstwahrscheinlich auch schon mit OneNote in Kontakt gekommen. In diesem Block soll es darum gehen, eine Alternative dazu kennenzulernen.
 
-[Obsidian](https://obsidian.md/) ist eine Software zur Verwaltung von Notizen. Darüber hinaus hat sie den Anspruch, das Denken ihrer Benutzer zu verbessern. Diese basiert auf der [Extended Mind Thesis](https://en.wikipedia.org/wiki/Extended_mind_thesis) bzw. der Theorie zum [Erweiterten Geist](https://de.wikipedia.org/wiki/Erweiterter_Geist). Hierbei geht es darum, dass Denken nicht nur im Kopf stattfindet, sondern beispielsweise von Fingern zum Zählen, von Computern oder von Notizsystemen unterstützt wird.
+[Obsidian](https://obsidian.md/) ist eine Software zur Verwaltung von Notizen. Darüber hinaus hat sie den Anspruch, das Denken ihrer Benutzer zu verbessern. Diese basiert auf der [Extended Mind Thesis](https://en.wikipedia.org/wiki/Extended_mind_thesis) bzw. der Theorie zum [Erweiterten Geist](https://de.wikipedia.org/wiki/Erweiterter_Geist). Hierbei geht es darum, dass Denken nicht nur im Kopf stattfindet, sondern beispielsweise von Fingern zum Zählen, von Computern oder von Notizsystemen unterstützt wird. Das Original-Paper kann unter [The Extended Mind](https://consc.net/papers/extended.html) nachgelesen werden.
 
 ## Setup
 

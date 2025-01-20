@@ -1,6 +1,6 @@
 +++
 title = "Block 8: Obsidian"
-weight = 7
+weight = 8
 +++
 
 # Woche 8

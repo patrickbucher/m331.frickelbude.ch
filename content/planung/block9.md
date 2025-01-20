@@ -24,7 +24,7 @@ In der neuten und letzten Woche schauen wir uns einen Film an und führen die Mo
 ### Lektionen 3
 
 - [20 min.] Film fertigschauen
-- [35 min.] Besprechung des Films
+- [25 min.] Besprechung des Films
 
 ### Lektion 4
 

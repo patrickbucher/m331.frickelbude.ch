@@ -20,8 +20,8 @@ In der achten Woche schauen wir uns das Werkzeug _Obsidian_ zur Verwaltung von N
 
 ### Lektionen 2 & 3
 
-- [90 min.] Selbständige Arbeit auf Aufträgen
+- [90 min.] Selbständige Arbeit auf [Aufträgen](/obsidian#aufträge)
 
 ### Lektion 4
 
-- [45 min.] Kurzpräsentationen
+- [45 min.] [Kurzpräsentationen](/obsidian#präsentation)

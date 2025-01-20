@@ -11,3 +11,4 @@ weight = 1
 - [Block 6](/planung/block6): Kontrollieren
 - [Block 7](/planung/block7): Auswerten
 - [Block 8](/planung/block8): Obsidian
+- [Block 9](/planung/block9): Abschluss

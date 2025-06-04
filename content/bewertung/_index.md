@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Bewertung"
 weight = 2
 +++

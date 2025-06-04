@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Planen"
 weight = 5
 +++

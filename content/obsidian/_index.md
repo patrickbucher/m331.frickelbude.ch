@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Obsidian"
 weight = 10
 +++

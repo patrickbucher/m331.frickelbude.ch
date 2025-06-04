@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Informieren"
 weight = 4
 +++

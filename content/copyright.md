@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Copyright"
 weight = 99
 +++

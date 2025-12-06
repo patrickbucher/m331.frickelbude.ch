@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Kontrollieren"
 weight = 8
 +++

@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Block 2: Informieren"
 weight = 2
 +++

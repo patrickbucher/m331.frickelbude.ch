@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Block 1: Einstieg"
 weight = 1
 +++

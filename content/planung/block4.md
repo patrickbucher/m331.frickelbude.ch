@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Block 4: Entscheiden"
 weight = 4
 +++

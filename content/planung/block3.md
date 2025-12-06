@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Block 3: Planen"
 weight = 3
 +++

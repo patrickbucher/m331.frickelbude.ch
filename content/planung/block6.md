@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Block 6: Kontrollieren"
 weight = 6
 +++

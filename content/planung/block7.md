@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Block 7: Auswerten"
 weight = 7
 +++

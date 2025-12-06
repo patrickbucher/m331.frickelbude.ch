@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Block 8: Obsidian"
 weight = 8
 +++

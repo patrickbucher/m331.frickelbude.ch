@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Block 9: Abschluss"
 weight = 9
 +++
